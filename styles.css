@@ -41,6 +41,7 @@ html {
 body {
     height: inherit;
     font-family: 'Lato', Arial, Helvetica, sans-serif;
+    margin: 100px;
 }
 
 .__loader_wrap {
